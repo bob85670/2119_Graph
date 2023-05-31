@@ -1,5 +1,5 @@
 # 2119_Graph
-This is a assignment testing knowledge of graph data structure and Depth-first search. 
+This is an assignment testing knowledge of graph data structure and Depth-first search. 
 
 Input: routes = [[5, 0], [6, 0], [7, 1, 0], [8, 1, 0], [9, 1]], source = 5, target = 9       
 Output: 3         
