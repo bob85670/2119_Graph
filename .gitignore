@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# PyCharm/IntelliJ IDE files
+.idea/
+
+# Other temporary files (optional, add if needed)
+*.log
+*.tmp
+
+# Specific files from your commit (optional, if you want to ignore them)
+Code Report.pdf
